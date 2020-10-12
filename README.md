@@ -18,9 +18,7 @@ A GetNet 360, visando ajudar a todos, fornecerá o empréstimo aqueles que passa
 autorização do valor, o cliente levará uma máquina GetNet, ondeo mesmo pagará, além do juros do empréstimo, a mensalidade da mesma.
 
 
-<BR>
-<BR>
-<BR>
+
 #####  Projeto desenvolvido por [JULIANA AINTABLIAN](https://github.com/JuAintablian), [BEATRIZ ARTIMUNDO](https://github.com/beatrizartimundo) , ANDRESSA LINCZUK (MARKETING E PUBLICIDADE) e JOYCE SOUZA (BUSINESS)
 
 
